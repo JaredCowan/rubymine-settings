@@ -1444,6 +1444,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/carrierwave-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="carrierwave (v0.11.0@b31f7c, rbenv: 2.1.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/bundler/gems/carrierwave-b31f7ce006ba/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="celluloid (v0.15.2, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/celluloid-0.15.2/lib" />
